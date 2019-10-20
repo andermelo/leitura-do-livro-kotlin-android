@@ -4,7 +4,7 @@ Notas e códigos de estudo
 
 ![Banner para o curso/livro](https://cdn.shopify.com/s/files/1/0155/7645/products/p_4d784e4f-769e-4f00-82d9-c1c81628055a_large.jpg)
 
-página para o [livro](https://www.casadocodigo.com.br/products/livro-kotlin-android)
+Link para página do [livro](https://www.casadocodigo.com.br/products/livro-kotlin-android)
 
 ## Sumário
 1. [Programando em Kotlin](#)
